@@ -33,7 +33,7 @@ function App() {
 
   return (
     <div className="container">
-      <h1>DummyJSON Products</h1>
+      <h1>Product List</h1>
 
       {loading ? (
         <h2>Loading...</h2>
